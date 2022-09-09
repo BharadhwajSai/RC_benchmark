@@ -9,6 +9,7 @@ import streamlit as st
 # import plotly as px
 import matplotlib.pyplot as plt
 from operator import index
+import tkinter as tk
 from turtle import right
 from scipy import interpolate
 
